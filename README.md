@@ -1,0 +1,1 @@
+# ksoloti-shield-template
