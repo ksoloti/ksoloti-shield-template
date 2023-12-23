@@ -6,7 +6,7 @@ The Ksoloti Core plugs into the bottom of the template and all its relevant pins
 
 All pins in this template have been realized as single-pin footprints so you can delete whichever pins you don't need and claim back some space for your design.
 
-The included mounting holes are also optional. You can delete them if they conflict with your part placement (the headers make a solid enough connection), although it is recommended you keep the two top (north) holes to maintain a solid connection when plugging your USB cables. M3 standoffs with 12mm length are just about the right height.
+The included mounting holes are also optional. You can delete them if they conflict with your part placement (the headers make a solid enough connection), although it is recommended you keep the two top (north) holes to maintain a solid connection when plugging your USB cables. M3 standoffs with 12mm length are the most suitable parts here.
 
 # Top view
 
