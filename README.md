@@ -4,12 +4,12 @@ Shield Template Project for Ksoloti Core v0.5+ and Kicad 6. You can use this as 
 
 # Top view
 
-[ksoloti_shield_template_top.png](/img/ksoloti_shield_template_top.png)
+![ksoloti_shield_template_top.png](/img/ksoloti_shield_template_top.png)
 
 # Bottom view
 
-[ksoloti_shield_template_bottom.png](/img/ksoloti_shield_template_bottom.png)
+![ksoloti_shield_template_bottom.png](/img/ksoloti_shield_template_bottom.png)
 
 # Bottom view with Core plugged in
 
-[ksoloti_shield_template_bottom_3d.png](/img/ksoloti_shield_template_bottom_3d.png)
+![ksoloti_shield_template_bottom_3d.png](/img/ksoloti_shield_template_bottom_3d.png)
