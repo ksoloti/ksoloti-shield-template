@@ -1,14 +1,24 @@
 # ksoloti-shield-template
 
-Shield Template Project for Ksoloti Core v0.5+ and Kicad 6. You can use this as a starting point to design your own shield.
+Shield Template Project for Ksoloti Core v0.5+ and Kicad 6+. You can use this as a starting point to design your own shield.
 
+# Installation Instructions
+
+Clone this repo to your User Templates directory. It will then show up under the User Templates tab when you create a `New Project from Template`.
+
+Example Locations:
+ * Windows: C:\Users\<user name>\OneDrive\Documents\KiCad\7.0\template\
+ * Mac:
+ * Linux:
+
+## About
 The Ksoloti Core plugs into the bottom of the template and all its relevant pins are brought out to the sockets of the template.
 
 All pins in this template have been realized as single-pin footprints so you can delete whichever pins you don't need and claim back some space for your design.
 
 The included mounting holes are also optional. You can delete them if they conflict with your part placement (the headers make a solid enough connection), although it is recommended you keep the two top (north) holes to maintain a solid connection when plugging your USB cables. M3 standoffs with 12mm length fit well here.
 
-# Top view
+##  Top view
 
 ![ksoloti_shield_template_top.png](/meta/ksoloti_shield_template_top.png)
 
