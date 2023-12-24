@@ -1,15 +1,15 @@
-# Ksoloti Core Shield Kicad Template
+## Ksoloti Core Shield Kicad Template
 
 Shield Template Project for Ksoloti Core v0.5+ and Kicad 6+. You can use this as a starting point to design your own shield.
 
 # Installation Instructions
 
-Clone this repo to your User Templates directory. It will then show up under the `User Templates` tab when you create a `New Project from Template`. You can find this directory by navigating to the `User Templates` tab in the Project Template Selector window after you've selected `New Project from Template` in the file menu.
+Clone this repo to your User Templates directory. It will then show up under the `User Templates` tab when you create a `New Project from Template`. You can find the default User Templates directory by checking the `KICAD_USER_TEMPLATE_DIR` variable in `Preferences > Configure Paths...` or by navigating to the `User Templates` tab in the Project Template Selector window after you've selected `New Project from Template` in the file menu.
 
-Example Locations:
- * Windows: `C:\Users\<user name>\OneDrive\Documents\KiCad\7.0\template\`
- * Mac:
- * Linux:
+Example Locations (might differ depending on your Kicad version):
+ * Windows: `C:\Users\<user name>\Documents\kicad\<version>\template\`
+ * Mac: `/Users/<user name>/Documents/kicad/<version>/template/`
+ * Linux: `/home/<username>/.local/share/kicad/<version>/template/`
 
 Alternatively, clone the project any location you wish and then browse to it in the `Project Template Selector` window on the `User Templates` tab. 
 
