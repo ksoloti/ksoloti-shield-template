@@ -31,3 +31,7 @@ The included mounting holes are also optional. You can delete them if they confl
 ## Bottom view with Core plugged in
 
 ![ksoloti_shield_template_bottom_3d.png](/meta/ksoloti_shield_template_bottom_3d.png)
+
+## Parts library
+
+![ksoloti_shield_template_parts.png](/meta/ksoloti_shield_template_parts.png)
