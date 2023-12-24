@@ -14,11 +14,22 @@ Example Locations (might differ depending on your Kicad version):
 Alternatively, clone the project any location you wish and then browse to it in the `Project Template Selector` window on the `User Templates` tab. 
 
 ## About
+
 The Ksoloti Core plugs into the bottom of the template and all its relevant pins are brought out to the sockets of the template.
 
 All pins in this template have been realized as single-pin footprints so you can delete whichever pins you don't need and claim back some space for your design.
 
 The included mounting holes are also optional. You can delete them if they conflict with your part placement (the headers make a solid enough connection), although it is recommended you keep the two top (north) holes to maintain a solid connection when plugging your USB cables. M3 standoffs with 12mm length fit well here.
+
+## Library & Footprints
+
+The template/project has its own little library of parts in case you're looking for something to get started with. Most of these parts are available via Thonk.
+* pot, dual pot
+* switch, switch with LED, encoder with switch
+* 6.35mm TRS audio jack, 3.5mm TRS audio jack
+* DIN-5 MIDI socket
+* 3mm LED, 3mm bicolor LED (3 pins, AKA)
+* 1.3" OLED display (pinout: GND, VCC, SCL, SDA. `BE CAREFUL: pinout varies on these cheap OLEDs! Some are VCC, GND, SCL, SDA which would lead to a short circuit on your board! Confirm your OLEDs pinout and adjust the footprint accordingly.`
 
 ## Top view
 
