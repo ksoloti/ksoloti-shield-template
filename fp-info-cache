@@ -1,4 +1,4 @@
-20927673893362592
+20927673896204568
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87570,9 +87570,9 @@ neutrik jack slim
 6
 6
 ksoloti_shield_footprints
-LED_D3.0mm-3_marked
-LED, diameter 3.0mm, 2 pins, diameter 3.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-3VSURKCGKC(Ver.8A).pdf
-LED diameter 3.0mm 2 pins diameter 3.0mm 3 pins
+LED_D3.0mm-dual_marked
+LED, diameter 3.0mm, diameter 3.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-3VSURKCGKC(Ver.8A).pdf
+LED diameter 3.0mm 3 pins
 0
 3
 3
