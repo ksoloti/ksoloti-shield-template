@@ -29,7 +29,7 @@ The template/project has its own little library of parts in case you're looking 
 * 6.35mm TRS audio jack, 3.5mm TRS audio jack
 * DIN-5 MIDI socket
 * 3mm LED, 3mm bicolor LED (3 pins, AKA)
-* 1.3" OLED display (pinout: GND, VCC, SCL, SDA. `BE CAREFUL: pinout varies on these cheap OLEDs! Some are VCC, GND, SCL, SDA which would lead to a short circuit on your board! Confirm your OLEDs pinout and adjust the footprint accordingly.`
+* 1.3" OLED display (pinout: GND, VCC, SCL, SDA. `BE CAREFUL: pinout varies on these cheap OLEDs! Confirm your OLEDs pinout and adjust the footprint accordingly.`
 
 ## Top view
 
