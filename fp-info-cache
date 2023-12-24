@@ -1,4 +1,4 @@
-21239897427015377
+21260328888613814
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58632,6 +58632,13 @@ Library
 6
 5
 Library
+A20_cap_panel_hole
+
+
+0
+1
+0
+Library
 A56_cap_panel_hole
 
 
@@ -88921,12 +88928,68 @@ varistor
 2
 2
 ksoloti_shield_footprints
+128x64OLED_1_3in
+1.3inch OLED, 128x64 pixels, 4-pin header, pinout GND-VCC-SCL-SDA
+
+0
+6
+5
+ksoloti_shield_footprints
+ALPS_POT_VERTICAL_PS
+
+
+0
+5
+4
+ksoloti_shield_footprints
+ALPS_POT_VERTICAL_PS_DUAL
+
+
+0
+8
+7
+ksoloti_shield_footprints
+ALPS_STEC12E08
+
+rotary, encoder, ALPS
+0
+7
+6
+ksoloti_shield_footprints
 Dummy for 3D model
 
 
 0
 0
 0
+ksoloti_shield_footprints
+Jack_6.35mm_Neutrik_NRJ6HF_Horizontal_no_screwhole
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, fully threaded nose, https://www.neutrik.com/en/product/nrj6hf
+neutrik jack slim
+0
+6
+6
+ksoloti_shield_footprints
+LED_D3.0mm-3_marked
+LED, diameter 3.0mm, 2 pins, diameter 3.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-3VSURKCGKC(Ver.8A).pdf
+LED diameter 3.0mm 2 pins diameter 3.0mm 3 pins
+0
+3
+3
+ksoloti_shield_footprints
+LED_D3.0mm_marked
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+ksoloti_shield_footprints
+MIDI_DIN-5_DS-5-01c
+Din 5 (MIDI), Pro Signal P/N PSG03463
+
+0
+9
+6
 ksoloti_shield_footprints
 MountingHole_3.2mm_M3_Pad_Via_tight
 Mounting Hole 2.7mm
@@ -88962,3 +89025,24 @@ Through hole pin header THT 1x01 2.54mm single row
 0
 1
 1
+ksoloti_shield_footprints
+TL1105T
+Momentary tact switch, 6*6mm
+
+0
+4
+4
+ksoloti_shield_footprints
+TL1105T_with_LED
+Momentary tact switch, 6*6mm, with optional LED pads for an illuminated version.
+
+0
+6
+6
+ksoloti_shield_footprints
+WQP729JH-B
+
+
+0
+4
+4
